@@ -38,38 +38,42 @@
 
 ![உணவு](data/wsp/f/fo/food/picture.png)
 
-## 10. வாருங்கள்
+## 10. உயர்
+
+![உயர்](data/wsp/h/hi/high/picture.png)
+
+## 11. வாருங்கள்
 
 ![வாருங்கள்](data/wsp/c/co/come/picture.png)
 
-## 11. மூடப்பட்டது
+## 12. மூடப்பட்டது
 
 ![மூடப்பட்டது](data/wsp/c/cl/closed/picture.png)
 
-## 12. நாள்
+## 13. நாள்
 
 ![நாள்](data/wsp/d/da/day/picture.png)
 
-## 13. வைக்க
+## 14. வைக்க
 
 ![வைக்க](data/wsp/k/ke/keep/picture.png)
 
-## 14. தெரியும்
+## 15. தெரியும்
 
 ![தெரியும்](data/wsp/k/kn/know/picture.png)
 
-## 15. சக்தி
+## 16. சக்தி
 
 ![சக்தி](data/wsp/p/po/power/picture.png)
 
-## 16. நடக்க
+## 17. நடக்க
 
 ![நடக்க](data/wsp/w/wa/walk/picture.png)
 
-## 17. வழி
+## 18. வழி
 
 ![வழி](data/wsp/w/wa/way/picture.png)
 
-## 18. பெண்
+## 19. பெண்
 
 ![பெண்](data/wsp/w/wo/woman/picture.png)
