@@ -2,42 +2,42 @@
 
 தமிழ் கற்க எளிதான வழி.
 
-## 01. பிறகு
+## 01. விண்வெளி
 
-![பிறகு](data/wsp/t/th/then/picture.png)
+![விண்வெளி](data/wsp/s/sp/space/picture.png)
 
-## 02. மாநில
+## 02. ஓட்டம்
 
-![மாநில](data/wsp/s/st/state/picture.png)
+![ஓட்டம்](data/wsp/f/fl/flow/picture.png)
 
-## 03. முழுமையான
+## 03. எங்கள்
 
-![முழுமையான](data/wsp/c/co/complete/picture.png)
+![எங்கள்](data/wsp/o/ou/our/picture.png)
 
-## 04. டாலர்
+## 04. தற்போதைய
 
-![டாலர்](data/wsp/d/do/dollar/picture.png)
+![தற்போதைய](data/wsp/c/cu/current/picture.png)
 
-## 05. குறிப்பாக
+## 05. மையம்
+
+![மையம்](data/wsp/c/ce/center/picture.png)
+
+## 06. குறிப்பாக
 
 ![குறிப்பாக](data/wsp/e/es/especially/picture.png)
 
-## 06. பலகை
+## 07. போதும்
 
-![பலகை](data/wsp/b/bo/board/picture.png)
+![போதும்](data/wsp/e/en/enough/picture.png)
 
-## 07. மீண்டும்
+## 08. பாதுகாக்க
 
-![மீண்டும்](data/wsp/b/ba/back/picture.png)
+![பாதுகாக்க](data/wsp/p/pr/protect/picture.png)
 
-## 08. சட்டம்
+## 09. செயல்முறை
 
-![சட்டம்](data/wsp/l/la/law/picture.png)
+![செயல்முறை](data/wsp/p/pr/process/picture.png)
 
-## 09. உங்கள்
+## 10. எழுது
 
-![உங்கள்](data/wsp/y/yo/your/picture.png)
-
-## 10. சாத்தியம்
-
-![சாத்தியம்](data/wsp/p/po/possible/picture.png)
+![எழுது](data/wsp/w/wr/write/picture.png)
