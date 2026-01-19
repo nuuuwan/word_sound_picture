@@ -105,7 +105,7 @@ class WSP:
 
         picture_path = os.path.join(self.dir_path, "picture.png")
         with Image.open(temp_picture_path) as img:
-            img = img.resize((512, 512))
+            img = img.resize((320, 320))
             img.save(picture_path)
         log.debug(f"Wrote {File(picture_path)}")
         return picture_path
