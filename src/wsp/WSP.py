@@ -156,7 +156,8 @@ class WSP:
 
     def build(self):
         dir_path = self.dir_path
-        if os.path.exists(dir_path):
+        metadata_file = JSONFile(os.path.join(dir_path, "metadata.json"))
+        if metadata_file.exists:
             log.debug(
                 f"WSP for '{self.en_word}' already exists. Skipping build."
             )
