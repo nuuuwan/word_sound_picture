@@ -68,22 +68,42 @@ class WSP:
         client = OpenAI(api_key=os.environ["OPENAI_API_KEY"])
         prompt = f"""
 
-            A warm, child-friendly illustration in
-            the style of a Sri Lankan children's picture book.
-            The image should visually, intuitively and unambiguously convey
-            the meaning of the word "{self.en_word}"
-            through characters, actions, and environment alone.
+            A warm, child-friendly illustration
+            in the style of a Sri Lankan
+            children's picture book.
 
-            Use Sri Lankan cultural cues where natural, such as clothing,
-              homes, landscapes, or daily life,
-            but keep them subtle and recognisable to a child.
+            The image is a single page collage
+            with multiple small sub-scenes
+            arranged like frames or panels.
 
-            The scene should be simple, colourful, and emotionally clear,
-            with soft lines and gentle expressions suitable for young children.
+            Each sub-image clearly represents
+            the meaning of the word
+            "{self.en_word}"
+            using different situations.
 
-            No written text, letters, numbers,
-            or symbols anywhere in the image.
+            Meaning must be conveyed only
+            through characters, actions,
+            and the environment.
 
+            Use subtle Sri Lankan cues
+            such as clothing, homes,
+            nature, or daily life.
+
+            All sub-scenes are simple,
+            colourful, and emotionally clear,
+            with soft lines and gentle faces.
+
+            Scenes should vary slightly
+            to show the word in use
+            across contexts.
+
+            No written text, letters,
+            numbers, or symbols
+            anywhere in the image.
+
+            The overall composition
+            should feel unified,
+            warm, and playful.
 
         """
 
