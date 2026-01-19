@@ -1,5 +1,11 @@
 [
   {
+    "en_word": "rich",
+    "ta_word": "\u0baa\u0ba3\u0b95\u0bcd\u0b95\u0bbe\u0bb0\u0bb0\u0bcd",
+    "sound_path": "data/wsp/r/ri/rich/sound.mp3",
+    "picture_path": "data/wsp/r/ri/rich/picture.png"
+  },
+  {
     "en_word": "space",
     "ta_word": "\u0bb5\u0bbf\u0ba3\u0bcd\u0bb5\u0bc6\u0bb3\u0bbf",
     "sound_path": "data/wsp/s/sp/space/sound.mp3",
@@ -16,6 +22,12 @@
     "ta_word": "\u0b8e\u0b99\u0bcd\u0b95\u0bb3\u0bcd",
     "sound_path": "data/wsp/o/ou/our/sound.mp3",
     "picture_path": "data/wsp/o/ou/our/picture.png"
+  },
+  {
+    "en_word": "metal",
+    "ta_word": "\u0b89\u0bb2\u0bcb\u0b95\u0bae\u0bcd",
+    "sound_path": "data/wsp/m/me/metal/sound.mp3",
+    "picture_path": "data/wsp/m/me/metal/picture.png"
   },
   {
     "en_word": "current",
@@ -42,6 +54,18 @@
     "picture_path": "data/wsp/e/en/enough/picture.png"
   },
   {
+    "en_word": "knew",
+    "ta_word": "\u0ba4\u0bc6\u0bb0\u0bbf\u0ba8\u0bcd\u0ba4\u0ba4\u0bc1",
+    "sound_path": "data/wsp/k/kn/knew/sound.mp3",
+    "picture_path": "data/wsp/k/kn/knew/picture.png"
+  },
+  {
+    "en_word": "people",
+    "ta_word": "\u0bae\u0b95\u0bcd\u0b95\u0bb3\u0bcd",
+    "sound_path": "data/wsp/p/pe/people/sound.mp3",
+    "picture_path": "data/wsp/p/pe/people/picture.png"
+  },
+  {
     "en_word": "protect",
     "ta_word": "\u0baa\u0bbe\u0ba4\u0bc1\u0b95\u0bbe\u0b95\u0bcd\u0b95",
     "sound_path": "data/wsp/p/pr/protect/sound.mp3",
@@ -58,5 +82,11 @@
     "ta_word": "\u0b8e\u0bb4\u0bc1\u0ba4\u0bc1",
     "sound_path": "data/wsp/w/wr/write/sound.mp3",
     "picture_path": "data/wsp/w/wr/write/picture.png"
+  },
+  {
+    "en_word": "world",
+    "ta_word": "\u0b89\u0bb2\u0b95\u0bae\u0bcd",
+    "sound_path": "data/wsp/w/wo/world/sound.mp3",
+    "picture_path": "data/wsp/w/wo/world/picture.png"
   }
 ]
