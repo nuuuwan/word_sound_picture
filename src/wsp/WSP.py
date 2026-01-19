@@ -118,7 +118,7 @@ class WSP:
         metadata = dict(
             en_word=self.en_word,
             ta_word=self.ta_word,
-            mp3_path=sound_path,
+            sound_path=sound_path,
             picture_path=picture_path,
         )
         metadata_file = JSONFile(os.path.join(dir_path, "metadata.json"))
