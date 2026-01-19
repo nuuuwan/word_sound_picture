@@ -2,42 +2,74 @@
 
 தமிழ் கற்க எளிதான வழி.
 
-## 01. கொடுக்க
+## 01. புதிய
+
+![புதிய](data/wsp/n/ne/new/picture.png)
+
+## 02. கொடுக்க
 
 ![கொடுக்க](data/wsp/g/gi/give/picture.png)
 
-## 02. கற்பிக்கின்றன
+## 03. கற்பிக்கின்றன
 
 ![கற்பிக்கின்றன](data/wsp/t/te/teach/picture.png)
 
-## 03. நினைக்கிறார்கள்
+## 04. நினைக்கிறார்கள்
 
 ![நினைக்கிறார்கள்](data/wsp/t/th/think/picture.png)
 
-## 04. பார்க்க
+## 05. பார்க்க
 
 ![பார்க்க](data/wsp/s/se/see/picture.png)
 
-## 05. தொடங்கு
+## 06. தொடங்கு
 
 ![தொடங்கு](data/wsp/s/st/start/picture.png)
 
-## 06. மூடப்பட்டது
+## 07. உட்காருங்கள்
+
+![உட்காருங்கள்](data/wsp/s/si/sit/picture.png)
+
+## 08. பயம்
+
+![பயம்](data/wsp/f/fe/fear/picture.png)
+
+## 09. உணவு
+
+![உணவு](data/wsp/f/fo/food/picture.png)
+
+## 10. வாருங்கள்
+
+![வாருங்கள்](data/wsp/c/co/come/picture.png)
+
+## 11. மூடப்பட்டது
 
 ![மூடப்பட்டது](data/wsp/c/cl/closed/picture.png)
 
-## 07. நாள்
+## 12. நாள்
 
 ![நாள்](data/wsp/d/da/day/picture.png)
 
-## 08. தெரியும்
+## 13. வைக்க
+
+![வைக்க](data/wsp/k/ke/keep/picture.png)
+
+## 14. தெரியும்
 
 ![தெரியும்](data/wsp/k/kn/know/picture.png)
 
-## 09. சக்தி
+## 15. சக்தி
 
 ![சக்தி](data/wsp/p/po/power/picture.png)
 
-## 10. வழி
+## 16. நடக்க
+
+![நடக்க](data/wsp/w/wa/walk/picture.png)
+
+## 17. வழி
 
 ![வழி](data/wsp/w/wa/way/picture.png)
+
+## 18. பெண்
+
+![பெண்](data/wsp/w/wo/woman/picture.png)

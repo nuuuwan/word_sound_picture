@@ -1,5 +1,11 @@
 [
   {
+    "en_word": "new",
+    "ta_word": "\u0baa\u0bc1\u0ba4\u0bbf\u0baf",
+    "sound_path": "data/wsp/n/ne/new/sound.mp3",
+    "picture_path": "data/wsp/n/ne/new/picture.png"
+  },
+  {
     "en_word": "give",
     "ta_word": "\u0b95\u0bca\u0b9f\u0bc1\u0b95\u0bcd\u0b95",
     "sound_path": "data/wsp/g/gi/give/sound.mp3",
@@ -30,6 +36,30 @@
     "picture_path": "data/wsp/s/st/start/picture.png"
   },
   {
+    "en_word": "sit",
+    "ta_word": "\u0b89\u0b9f\u0bcd\u0b95\u0bbe\u0bb0\u0bc1\u0b99\u0bcd\u0b95\u0bb3\u0bcd",
+    "sound_path": "data/wsp/s/si/sit/sound.mp3",
+    "picture_path": "data/wsp/s/si/sit/picture.png"
+  },
+  {
+    "en_word": "fear",
+    "ta_word": "\u0baa\u0baf\u0bae\u0bcd",
+    "sound_path": "data/wsp/f/fe/fear/sound.mp3",
+    "picture_path": "data/wsp/f/fe/fear/picture.png"
+  },
+  {
+    "en_word": "food",
+    "ta_word": "\u0b89\u0ba3\u0bb5\u0bc1",
+    "sound_path": "data/wsp/f/fo/food/sound.mp3",
+    "picture_path": "data/wsp/f/fo/food/picture.png"
+  },
+  {
+    "en_word": "come",
+    "ta_word": "\u0bb5\u0bbe\u0bb0\u0bc1\u0b99\u0bcd\u0b95\u0bb3\u0bcd",
+    "sound_path": "data/wsp/c/co/come/sound.mp3",
+    "picture_path": "data/wsp/c/co/come/picture.png"
+  },
+  {
     "en_word": "closed",
     "ta_word": "\u0bae\u0bc2\u0b9f\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f\u0ba4\u0bc1",
     "sound_path": "data/wsp/c/cl/closed/sound.mp3",
@@ -40,6 +70,12 @@
     "ta_word": "\u0ba8\u0bbe\u0bb3\u0bcd",
     "sound_path": "data/wsp/d/da/day/sound.mp3",
     "picture_path": "data/wsp/d/da/day/picture.png"
+  },
+  {
+    "en_word": "keep",
+    "ta_word": "\u0bb5\u0bc8\u0b95\u0bcd\u0b95",
+    "sound_path": "data/wsp/k/ke/keep/sound.mp3",
+    "picture_path": "data/wsp/k/ke/keep/picture.png"
   },
   {
     "en_word": "know",
@@ -54,9 +90,21 @@
     "picture_path": "data/wsp/p/po/power/picture.png"
   },
   {
+    "en_word": "walk",
+    "ta_word": "\u0ba8\u0b9f\u0b95\u0bcd\u0b95",
+    "sound_path": "data/wsp/w/wa/walk/sound.mp3",
+    "picture_path": "data/wsp/w/wa/walk/picture.png"
+  },
+  {
     "en_word": "way",
     "ta_word": "\u0bb5\u0bb4\u0bbf",
     "sound_path": "data/wsp/w/wa/way/sound.mp3",
     "picture_path": "data/wsp/w/wa/way/picture.png"
+  },
+  {
+    "en_word": "woman",
+    "ta_word": "\u0baa\u0bc6\u0ba3\u0bcd",
+    "sound_path": "data/wsp/w/wo/woman/sound.mp3",
+    "picture_path": "data/wsp/w/wo/woman/picture.png"
   }
 ]
