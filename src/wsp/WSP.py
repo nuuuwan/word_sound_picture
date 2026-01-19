@@ -64,9 +64,8 @@ class WSP:
         log.debug(f"Wrote {File(sound_path)}")
         return sound_path
 
-    def build_picture(self) -> str:
-        client = OpenAI(api_key=os.environ["OPENAI_API_KEY"])
-        prompt = f"""
+    def __generate_picture_prompt__(self) -> str:
+        return f"""
 
             A warm, child-friendly illustration
             in the style of a Sri Lankan
@@ -107,6 +106,8 @@ class WSP:
 
         """
 
+    def __generate_image_from_api__(self, prompt: str) -> bytes:
+        client = OpenAI(api_key=os.environ["OPENAI_API_KEY"])
         result = client.images.generate(
             prompt=prompt,
             model="gpt-image-1.5",
@@ -115,7 +116,9 @@ class WSP:
             size="1024x1024",
         )
         image_base64 = result.data[0].b64_json
-        image_bytes = base64.b64decode(image_base64)
+        return base64.b64decode(image_base64)
+
+    def __save_and_resize_image__(self, image_bytes: bytes) -> str:
         temp_picture_path = tempfile.NamedTemporaryFile(
             suffix=".png",
             delete=False,
@@ -128,6 +131,12 @@ class WSP:
             img = img.resize((320, 320))
             img.save(picture_path)
         log.debug(f"Wrote {File(picture_path)}")
+        return picture_path
+
+    def build_picture(self) -> str:
+        prompt = self.__generate_picture_prompt__()
+        image_bytes = self.__generate_image_from_api__(prompt)
+        picture_path = self.__save_and_resize_image__(image_bytes)
         return picture_path
 
     def __build_hot__(self):
