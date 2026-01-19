@@ -1,12 +1,17 @@
+import sys
+
 from wsp import WSP, ReadMe
 
 
-def main():
-    for wsp in WSP.list_random(5):
+def main(n: int):
+    for wsp in WSP.list_random(n):
         wsp.build()
     WSP.aggregate()
     ReadMe().build()
 
 
 if __name__ == "__main__":
-    main()
+    if len(sys.argv) != 2:
+        print("Usage: python workflows/generate.py <n>")
+        sys.exit(1)
+    main(int(sys.argv[1]))
