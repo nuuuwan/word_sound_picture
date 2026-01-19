@@ -12,6 +12,12 @@
     "picture_path": "data/wsp/s/sc/school/picture.png"
   },
   {
+    "en_word": "state",
+    "ta_word": "\u0bae\u0bbe\u0ba8\u0bbf\u0bb2",
+    "sound_path": "data/wsp/s/st/state/sound.mp3",
+    "picture_path": "data/wsp/s/st/state/picture.png"
+  },
+  {
     "en_word": "soldier",
     "ta_word": "\u0b9a\u0bbf\u0baa\u0bcd\u0baa\u0bbe\u0baf\u0bcd",
     "sound_path": "data/wsp/s/so/soldier/sound.mp3",
@@ -24,10 +30,28 @@
     "picture_path": "data/wsp/f/fr/fresh/picture.png"
   },
   {
+    "en_word": "design",
+    "ta_word": "\u0bb5\u0b9f\u0bbf\u0bb5\u0bae\u0bc8\u0baa\u0bcd\u0baa\u0bc1",
+    "sound_path": "data/wsp/d/de/design/sound.mp3",
+    "picture_path": "data/wsp/d/de/design/picture.png"
+  },
+  {
+    "en_word": "voice",
+    "ta_word": "\u0b95\u0bc1\u0bb0\u0bb2\u0bcd",
+    "sound_path": "data/wsp/v/vo/voice/sound.mp3",
+    "picture_path": "data/wsp/v/vo/voice/picture.png"
+  },
+  {
     "en_word": "exercise",
     "ta_word": "\u0b89\u0b9f\u0bb1\u0bcd\u0baa\u0baf\u0bbf\u0bb1\u0bcd\u0b9a\u0bbf",
     "sound_path": "data/wsp/e/ex/exercise/sound.mp3",
     "picture_path": "data/wsp/e/ex/exercise/picture.png"
+  },
+  {
+    "en_word": "learn",
+    "ta_word": "\u0b95\u0bb1\u0bcd\u0bb1\u0bc1\u0b95\u0bcd\u0b95\u0bca\u0bb3\u0bcd",
+    "sound_path": "data/wsp/l/le/learn/sound.mp3",
+    "picture_path": "data/wsp/l/le/learn/picture.png"
   },
   {
     "en_word": "push",
