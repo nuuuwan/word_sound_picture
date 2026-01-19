@@ -50,62 +50,90 @@
 
 ![பயம்](data/wsp/f/fe/fear/picture.png)
 
-## 13. உணவு
+## 13. வேகமாக
+
+![வேகமாக](data/wsp/f/fa/fast/picture.png)
+
+## 14. உண்மை
+
+![உண்மை](data/wsp/f/fa/fact/picture.png)
+
+## 15. உணவு
 
 ![உணவு](data/wsp/f/fo/food/picture.png)
 
-## 14. திறந்த
+## 16. திறந்த
 
 ![திறந்த](data/wsp/o/op/open/picture.png)
 
-## 15. கேட்க
+## 17. கேட்க
 
 ![கேட்க](data/wsp/h/he/hear/picture.png)
 
-## 16. உயர்
+## 18. உயர்
 
 ![உயர்](data/wsp/h/hi/high/picture.png)
 
-## 17. வாருங்கள்
+## 19. வாருங்கள்
 
 ![வாருங்கள்](data/wsp/c/co/come/picture.png)
 
-## 18. மூடப்பட்டது
+## 20. மூடப்பட்டது
 
 ![மூடப்பட்டது](data/wsp/c/cl/closed/picture.png)
 
-## 19. நாள்
+## 21. அழுக்கு
+
+![அழுக்கு](data/wsp/d/di/dirty/picture.png)
+
+## 22. நாள்
 
 ![நாள்](data/wsp/d/da/day/picture.png)
 
-## 20. வைக்க
+## 23. பெரிய
+
+![பெரிய](data/wsp/b/bi/big/picture.png)
+
+## 24. வைக்க
 
 ![வைக்க](data/wsp/k/ke/keep/picture.png)
 
-## 21. தெரியும்
+## 25. தெரியும்
 
 ![தெரியும்](data/wsp/k/kn/know/picture.png)
 
-## 22. சக்தி
+## 26. வாழ்க்கை
+
+![வாழ்க்கை](data/wsp/l/li/life/picture.png)
+
+## 27. விளையாடு
+
+![விளையாடு](data/wsp/p/pl/play/picture.png)
+
+## 28. நபர்
+
+![நபர்](data/wsp/p/pe/person/picture.png)
+
+## 29. சக்தி
 
 ![சக்தி](data/wsp/p/po/power/picture.png)
 
-## 23. நடக்க
+## 30. நடக்க
 
 ![நடக்க](data/wsp/w/wa/walk/picture.png)
 
-## 24. வழி
+## 31. வழி
 
 ![வழி](data/wsp/w/wa/way/picture.png)
 
-## 25. வேலை
+## 32. வேலை
 
 ![வேலை](data/wsp/w/wo/work/picture.png)
 
-## 26. வார்த்தை
+## 33. வார்த்தை
 
 ![வார்த்தை](data/wsp/w/wo/word/picture.png)
 
-## 27. பெண்
+## 34. பெண்
 
 ![பெண்](data/wsp/w/wo/woman/picture.png)

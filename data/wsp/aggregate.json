@@ -72,6 +72,18 @@
     "picture_path": "data/wsp/f/fe/fear/picture.png"
   },
   {
+    "en_word": "fast",
+    "ta_word": "\u0bb5\u0bc7\u0b95\u0bae\u0bbe\u0b95",
+    "sound_path": "data/wsp/f/fa/fast/sound.mp3",
+    "picture_path": "data/wsp/f/fa/fast/picture.png"
+  },
+  {
+    "en_word": "fact",
+    "ta_word": "\u0b89\u0ba3\u0bcd\u0bae\u0bc8",
+    "sound_path": "data/wsp/f/fa/fact/sound.mp3",
+    "picture_path": "data/wsp/f/fa/fact/picture.png"
+  },
+  {
     "en_word": "food",
     "ta_word": "\u0b89\u0ba3\u0bb5\u0bc1",
     "sound_path": "data/wsp/f/fo/food/sound.mp3",
@@ -108,10 +120,22 @@
     "picture_path": "data/wsp/c/cl/closed/picture.png"
   },
   {
+    "en_word": "dirty",
+    "ta_word": "\u0b85\u0bb4\u0bc1\u0b95\u0bcd\u0b95\u0bc1",
+    "sound_path": "data/wsp/d/di/dirty/sound.mp3",
+    "picture_path": "data/wsp/d/di/dirty/picture.png"
+  },
+  {
     "en_word": "day",
     "ta_word": "\u0ba8\u0bbe\u0bb3\u0bcd",
     "sound_path": "data/wsp/d/da/day/sound.mp3",
     "picture_path": "data/wsp/d/da/day/picture.png"
+  },
+  {
+    "en_word": "big",
+    "ta_word": "\u0baa\u0bc6\u0bb0\u0bbf\u0baf",
+    "sound_path": "data/wsp/b/bi/big/sound.mp3",
+    "picture_path": "data/wsp/b/bi/big/picture.png"
   },
   {
     "en_word": "keep",
@@ -124,6 +148,24 @@
     "ta_word": "\u0ba4\u0bc6\u0bb0\u0bbf\u0baf\u0bc1\u0bae\u0bcd",
     "sound_path": "data/wsp/k/kn/know/sound.mp3",
     "picture_path": "data/wsp/k/kn/know/picture.png"
+  },
+  {
+    "en_word": "life",
+    "ta_word": "\u0bb5\u0bbe\u0bb4\u0bcd\u0b95\u0bcd\u0b95\u0bc8",
+    "sound_path": "data/wsp/l/li/life/sound.mp3",
+    "picture_path": "data/wsp/l/li/life/picture.png"
+  },
+  {
+    "en_word": "play",
+    "ta_word": "\u0bb5\u0bbf\u0bb3\u0bc8\u0baf\u0bbe\u0b9f\u0bc1",
+    "sound_path": "data/wsp/p/pl/play/sound.mp3",
+    "picture_path": "data/wsp/p/pl/play/picture.png"
+  },
+  {
+    "en_word": "person",
+    "ta_word": "\u0ba8\u0baa\u0bb0\u0bcd",
+    "sound_path": "data/wsp/p/pe/person/sound.mp3",
+    "picture_path": "data/wsp/p/pe/person/picture.png"
   },
   {
     "en_word": "power",
