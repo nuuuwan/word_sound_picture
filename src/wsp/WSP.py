@@ -25,7 +25,7 @@ class WSP:
     @classmethod
     def __list_all_en_words__(cls):
         en_words = File(
-            os.path.join("data", "static", "en-word-list.txt")
+            os.path.join("data", "static", "first-100.txt")
         ).read_lines()
         stripped_words = [w.strip() for w in en_words]
         minus_short_words = [w for w in stripped_words if len(w) >= 3]
