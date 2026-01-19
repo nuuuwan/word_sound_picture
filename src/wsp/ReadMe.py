@@ -1,24 +1,12 @@
-import os
+from utils import File, Log
 
-from utils import File, JSONFile, Log
+from wsp.WSP import WSP
 
 log = Log("ReadMe")
 
 
 class ReadMe:
     README_PATH = "README.md"
-
-    def load_metadata_list(self) -> list[dict]:
-        metadata_list = []
-        for cur_root, _, file_names in os.walk(os.path.join("data", "wsp")):
-            for file_name in file_names:
-                if file_name == "metadata.json":
-                    file_path = os.path.join(cur_root, file_name)
-                    metadata = JSONFile(file_path).read()
-                    metadata_list.append(metadata)
-
-        log.debug(f"Loaded metadata for {len(metadata_list)} WSPs.")
-        return metadata_list
 
     def get_lines_for_header(self) -> list[str]:
         return [
@@ -44,7 +32,7 @@ class ReadMe:
         return lines
 
     def get_lines_for_wsp(self) -> list[str]:
-        metadata_list = self.load_metadata_list()
+        metadata_list = WSP.load_metadata_list()
         lines = []
         for i_metadata, metadata in enumerate(metadata_list, start=1):
             lines += self.get_lines_for_metadata(i_metadata, metadata)

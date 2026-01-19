@@ -1,0 +1,32 @@
+[
+  {
+    "en_word": "then",
+    "ta_word": "\u0baa\u0bbf\u0bb1\u0b95\u0bc1",
+    "sound_path": "data/wsp/t/th/then/sound.mp3",
+    "picture_path": "data/wsp/t/th/then/picture.png"
+  },
+  {
+    "en_word": "state",
+    "ta_word": "\u0bae\u0bbe\u0ba8\u0bbf\u0bb2",
+    "sound_path": "data/wsp/s/st/state/sound.mp3",
+    "picture_path": "data/wsp/s/st/state/picture.png"
+  },
+  {
+    "en_word": "dollar",
+    "ta_word": "\u0b9f\u0bbe\u0bb2\u0bb0\u0bcd",
+    "sound_path": "data/wsp/d/do/dollar/sound.mp3",
+    "picture_path": "data/wsp/d/do/dollar/picture.png"
+  },
+  {
+    "en_word": "especially",
+    "ta_word": "\u0b95\u0bc1\u0bb1\u0bbf\u0baa\u0bcd\u0baa\u0bbe\u0b95",
+    "sound_path": "data/wsp/e/es/especially/sound.mp3",
+    "picture_path": "data/wsp/e/es/especially/picture.png"
+  },
+  {
+    "en_word": "law",
+    "ta_word": "\u0b9a\u0b9f\u0bcd\u0b9f\u0bae\u0bcd",
+    "sound_path": "data/wsp/l/la/law/sound.mp3",
+    "picture_path": "data/wsp/l/la/law/picture.png"
+  }
+]

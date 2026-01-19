@@ -135,3 +135,25 @@ class WSP:
 
         self.__build_hot__()
         return True
+
+    @classmethod
+    def load_metadata_list(cls) -> list[dict]:
+        metadata_list = []
+        for cur_root, _, file_names in os.walk(os.path.join("data", "wsp")):
+            for file_name in file_names:
+                if file_name == "metadata.json":
+                    file_path = os.path.join(cur_root, file_name)
+                    metadata = JSONFile(file_path).read()
+                    metadata_list.append(metadata)
+
+        log.debug(f"Loaded metadata for {len(metadata_list)} WSPs.")
+        return metadata_list
+
+    @classmethod
+    def aggregate(cls):
+        metadata_list = cls.load_metadata_list()
+        aggregate_file = JSONFile(
+            os.path.join("data", "wsp", "aggregate.json")
+        )
+        aggregate_file.write(metadata_list)
+        log.info(f"Wrote {aggregate_file}")
