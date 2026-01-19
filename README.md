@@ -2,86 +2,42 @@
 
 தமிழ் கற்க எளிதான வழி.
 
-## 01. விளையாட்டு
+## 01. கொடுக்க
 
-![விளையாட்டு](data/wsp/g/ga/game/picture.png)
+![கொடுக்க](data/wsp/g/gi/give/picture.png)
 
-## 02. கால
+## 02. கற்பிக்கின்றன
 
-![கால](data/wsp/t/te/term/picture.png)
+![கற்பிக்கின்றன](data/wsp/t/te/teach/picture.png)
 
-## 03. தூக்கம்
+## 03. நினைக்கிறார்கள்
 
-![தூக்கம்](data/wsp/s/sl/sleep/picture.png)
+![நினைக்கிறார்கள்](data/wsp/t/th/think/picture.png)
 
-## 04. பல
+## 04. பார்க்க
 
-![பல](data/wsp/s/se/several/picture.png)
+![பார்க்க](data/wsp/s/se/see/picture.png)
 
-## 05. அளவுகோல்
+## 05. தொடங்கு
 
-![அளவுகோல்](data/wsp/s/sc/scale/picture.png)
+![தொடங்கு](data/wsp/s/st/start/picture.png)
 
-## 06. பள்ளி
+## 06. மூடப்பட்டது
 
-![பள்ளி](data/wsp/s/sc/school/picture.png)
+![மூடப்பட்டது](data/wsp/c/cl/closed/picture.png)
 
-## 07. ஓடை
+## 07. நாள்
 
-![ஓடை](data/wsp/s/st/stream/picture.png)
+![நாள்](data/wsp/d/da/day/picture.png)
 
-## 08. மாநில
+## 08. தெரியும்
 
-![மாநில](data/wsp/s/st/state/picture.png)
+![தெரியும்](data/wsp/k/kn/know/picture.png)
 
-## 09. சிப்பாய்
+## 09. சக்தி
 
-![சிப்பாய்](data/wsp/s/so/soldier/picture.png)
+![சக்தி](data/wsp/p/po/power/picture.png)
 
-## 10. கண்டுபிடிக்க
+## 10. வழி
 
-![கண்டுபிடிக்க](data/wsp/f/fi/find/picture.png)
-
-## 11. புதியது
-
-![புதியது](data/wsp/f/fr/fresh/picture.png)
-
-## 12. சூடான
-
-![சூடான](data/wsp/h/ho/hot/picture.png)
-
-## 13. பொருத்தம்
-
-![பொருத்தம்](data/wsp/m/ma/match/picture.png)
-
-## 14. வடிவமைப்பு
-
-![வடிவமைப்பு](data/wsp/d/de/design/picture.png)
-
-## 15. குரல்
-
-![குரல்](data/wsp/v/vo/voice/picture.png)
-
-## 16. உடற்பயிற்சி
-
-![உடற்பயிற்சி](data/wsp/e/ex/exercise/picture.png)
-
-## 17. பூமி
-
-![பூமி](data/wsp/e/ea/earth/picture.png)
-
-## 18. சிறுவன்
-
-![சிறுவன்](data/wsp/b/bo/boy/picture.png)
-
-## 19. கற்றுக்கொள்
-
-![கற்றுக்கொள்](data/wsp/l/le/learn/picture.png)
-
-## 20. தள்ளு
-
-![தள்ளு](data/wsp/p/pu/push/picture.png)
-
-## 21. வாரம்
-
-![வாரம்](data/wsp/w/we/week/picture.png)
+![வழி](data/wsp/w/wa/way/picture.png)

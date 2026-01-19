@@ -1,0 +1,62 @@
+[
+  {
+    "en_word": "give",
+    "ta_word": "\u0b95\u0bca\u0b9f\u0bc1\u0b95\u0bcd\u0b95",
+    "sound_path": "data/wsp/g/gi/give/sound.mp3",
+    "picture_path": "data/wsp/g/gi/give/picture.png"
+  },
+  {
+    "en_word": "teach",
+    "ta_word": "\u0b95\u0bb1\u0bcd\u0baa\u0bbf\u0b95\u0bcd\u0b95\u0bbf\u0ba9\u0bcd\u0bb1\u0ba9",
+    "sound_path": "data/wsp/t/te/teach/sound.mp3",
+    "picture_path": "data/wsp/t/te/teach/picture.png"
+  },
+  {
+    "en_word": "think",
+    "ta_word": "\u0ba8\u0bbf\u0ba9\u0bc8\u0b95\u0bcd\u0b95\u0bbf\u0bb1\u0bbe\u0bb0\u0bcd\u0b95\u0bb3\u0bcd",
+    "sound_path": "data/wsp/t/th/think/sound.mp3",
+    "picture_path": "data/wsp/t/th/think/picture.png"
+  },
+  {
+    "en_word": "see",
+    "ta_word": "\u0baa\u0bbe\u0bb0\u0bcd\u0b95\u0bcd\u0b95",
+    "sound_path": "data/wsp/s/se/see/sound.mp3",
+    "picture_path": "data/wsp/s/se/see/picture.png"
+  },
+  {
+    "en_word": "start",
+    "ta_word": "\u0ba4\u0bca\u0b9f\u0b99\u0bcd\u0b95\u0bc1",
+    "sound_path": "data/wsp/s/st/start/sound.mp3",
+    "picture_path": "data/wsp/s/st/start/picture.png"
+  },
+  {
+    "en_word": "closed",
+    "ta_word": "\u0bae\u0bc2\u0b9f\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f\u0ba4\u0bc1",
+    "sound_path": "data/wsp/c/cl/closed/sound.mp3",
+    "picture_path": "data/wsp/c/cl/closed/picture.png"
+  },
+  {
+    "en_word": "day",
+    "ta_word": "\u0ba8\u0bbe\u0bb3\u0bcd",
+    "sound_path": "data/wsp/d/da/day/sound.mp3",
+    "picture_path": "data/wsp/d/da/day/picture.png"
+  },
+  {
+    "en_word": "know",
+    "ta_word": "\u0ba4\u0bc6\u0bb0\u0bbf\u0baf\u0bc1\u0bae\u0bcd",
+    "sound_path": "data/wsp/k/kn/know/sound.mp3",
+    "picture_path": "data/wsp/k/kn/know/picture.png"
+  },
+  {
+    "en_word": "power",
+    "ta_word": "\u0b9a\u0b95\u0bcd\u0ba4\u0bbf",
+    "sound_path": "data/wsp/p/po/power/sound.mp3",
+    "picture_path": "data/wsp/p/po/power/picture.png"
+  },
+  {
+    "en_word": "way",
+    "ta_word": "\u0bb5\u0bb4\u0bbf",
+    "sound_path": "data/wsp/w/wa/way/sound.mp3",
+    "picture_path": "data/wsp/w/wa/way/picture.png"
+  }
+]
